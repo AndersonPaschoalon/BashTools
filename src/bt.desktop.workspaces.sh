@@ -1,4 +1,4 @@
-#/bin/bash
+#!/usr/bin/env bash
 arg1=$1;
 arg2=$2;
 
@@ -20,7 +20,6 @@ else
 fi
 
 
-#gsettings set org.compiz.core:/org/compiz/profiles/unity/plugins/core/ vsize 2
-#gsettings set org.compiz.core:/org/compiz/profiles/unity/plugins/core/ hsize 6
+
 
 
